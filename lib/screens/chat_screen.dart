@@ -99,7 +99,7 @@ class ChatScreen extends StatelessWidget {
                     child: TextField(
                       controller: _messageController,
                       decoration: InputDecoration(
-                        labelText: 'Type your message...',
+                        labelText: 'Type your dfgtyt...',
                         labelStyle: TextStyle(color: Colors.deepPurple[700]), // Dark purple for label
                         border: OutlineInputBorder(
                           borderRadius: BorderRadius.circular(30), // Rounded corners
